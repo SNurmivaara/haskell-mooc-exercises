@@ -4,6 +4,8 @@ This repository contains my answers to the exercises of the excellent functional
 
 The course is online and open for anyone to complete, please see the link below if you are interested.
 
+Please note that if you are currently doing the course just simply copying the answers here (or from someone elses repository) constitutes as cheating and does nothing for your learning, so I'd advise you to reconsider. If you find yourself stuck you should read the course material again or join the course Telegram channel (found on the course site) and ask away :)
+
 ## Haskell MOOC
 
 <p align="center"><img alt="Course logo" src="img/haskell-mooc-logo.svg" width="400" align="center"></p>
